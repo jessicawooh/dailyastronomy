@@ -1,0 +1,101 @@
+input[type=text] {
+    width: 200px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('searchicon.png');
+    /*background-position: 10px 10px;*/
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 30px;
+    position: center;
+    /*-webkit-transition: width 0.4s ease-in-out;*/
+    /*transition: width 0.4s ease-in-out;*/
+}
+
+body {
+    background-position: center;
+    background-image: url("http://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.jpg");
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    /*opacity: 0.5;*/
+}
+
+h1 {
+    /*font-family: Arial Narrow, sans-serif !important;*/
+    font-family: Engel Light !important;
+    text-align: center;
+    color: white !important;
+    /*font-weight: normal !important;*/
+}
+
+#mainpara {
+    text-align: center;
+    font-family: Engel Light !important;
+    color: white !important;
+}
+
+.container {
+    position: relative;
+    margin: auto;
+    top: 50px;
+
+}
+
+#welcomebox {
+    border-radius: 7px;
+    width: 400px;
+    height: 250px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+    background-color: #646568;
+    position: relative;
+    margin: auto;
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+    left: 0;
+    top: 30px;
+    right: 0;
+    /*bottom: 400px;*/
+}
+
+#background {
+
+    position: relative;
+
+    background-position: center;
+
+    background-image: url("http://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.jpg");
+
+    background-attachment: fixed;
+
+    background-size: 100% 100%;
+
+    background-repeat: no-repeat;
+
+    opacity: 0.5;
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.container3 {
+    /*position: absolute;*/
+    /*margin: auto;*/
+    /*top: 0;*/
+    /*right: 0;*/
+    /*bottom: 0;*/
+    /*left: 0;*/
+    /*width: 100%;*/
+    /*height: 100%;*/
+    /*background-position: center;*/
+    /*background-image: url("http://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.jpg");*/
+    /*background-attachment: fixed;*/
+    /*background-size: 100% 100%;*/
+    /*background-repeat: no-repeat;*/
+}
